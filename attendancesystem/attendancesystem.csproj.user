@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\NELRUBY\Desktop\Attendance System Exe. Oct. 4, 2022\|C:\Users\NELRUBY\Desktop\Attendance System Exe Sept. 1, 2022\|C:\Users\NELRUBY\Desktop\Attendance System August 24, 2022\|C:\Users\NELRUBY\Desktop\Attendance System August 23, 2022\|C:\Users\NELRUBY\Desktop\55555\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>
